@@ -164,6 +164,9 @@ STR learns **the robot model first**, then computes the control law using the id
 | Model Knowledge Required | Minimal | Moderate   |
 | Interpretability         | Lower   | Higher     |
 
+<img width="1909" height="957" alt="image" src="https://github.com/user-attachments/assets/dff2781d-dda9-4192-90d0-623c03b4348c" />
+
+
 ---
 
 # Example Experiments
